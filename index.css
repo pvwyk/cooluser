@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    background-color: #A9BA9D ;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: .5;
+   
+}
+
+h1{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #10b981;
+    font-weight: 700;
+    text-align: left;
+}
+
+.box-it{
+    margin: auto;
+    width: 300px;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 50px;
+    background-color: #1f2937 ;
+    border-radius: 20px ;
+    
+}
+.butt-on{
+    background-color: #10b981;
+    border-radius: 20px ;
+    padding: 5px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+}
+.funny-line{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 15px;
+    color: #116549;
+    font-weight: 700;
+    font-style: italic;
+    text-align: left;
+}
+
+.different-h1{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: #ffffff;
+    font-weight: 700;
+    text-align: left;
+}
+
+.div-button1{
+    background-color: #10b981;
+    border-radius: 20px ;
+    padding: 5px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
